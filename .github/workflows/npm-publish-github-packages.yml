@@ -1,0 +1,12 @@
+{
+  "name": "madhyamik-2026-api",
+  "version": "1.0.0",
+  "description": "Demo backend API for Madhyamik 2026 Result",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
